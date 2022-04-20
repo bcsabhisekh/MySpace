@@ -1,6 +1,6 @@
 # MySpace
  MySpace is a socio-academic site for IIITM students
- This is a group Project.
+ This is a group Project under the guidance of course instructor Dr. Santosh Singh Rathore.
  
   Members in the group are:
  
