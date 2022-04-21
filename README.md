@@ -1,5 +1,6 @@
 # MySpace   
 ## https://mighty-fjord-39866.herokuapp.com/
+#### github repository with only frontend part : https://github.com/sadityakumar9211/MySpace
  MySpace is a socio-academic site for IIITM students
  This is a group Project under the guidance of course instructor Dr. Santosh Singh Rathore.
  
