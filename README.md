@@ -13,4 +13,5 @@
    ## About this project
    MySpace is a socio-academic portal for the Students of ABV-IIITM Gwalior where Students can not only get organized with their class schedule, get       informed with the upcoming college events organised by various clubs, access helpful resources like books, notes, previous-year papers, etc., but also   ask their academic, technical or career related doubts and get clarified by their seniors. Students can also read and post technical blogs and rate  them. MySpace attempts to make the life of Students simpler by organizing all of the things they need in one place. 
 
-![Uploading image.png…]()
+
+<img width="1257" alt="homepage" src="https://user-images.githubusercontent.com/78147198/164381026-19e01b66-bae7-47ec-9c2d-f240ea525aae.png">
