@@ -15,3 +15,6 @@
 
 
 <img width="1257" alt="homepage" src="https://user-images.githubusercontent.com/78147198/164381026-19e01b66-bae7-47ec-9c2d-f240ea525aae.png">
+
+
+### For Sign Up students require the email ids of domain name iiitm.ac.in (i.e. email ids ending with @iiitm.ac.in)
