@@ -13,8 +13,10 @@
 #### Remark -
    Sir, you can use dummy login credential that is created from our side, in case if you face any difficulty during signup into the page. The dummy login 
    credential are given below :
+   
    Username : ssr@iiitm.ac.in
    Password : ssr1234
+   
    All the functionalities can be seen only after login, because it is a college specific web portal and only members of that college can access this 
    site for maintaining confidentiality.
    
