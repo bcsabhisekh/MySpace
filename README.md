@@ -8,7 +8,15 @@
  
    Abishekh Yadav (2020BCS-003)       
    Aditya Kumar Singh (2020BCS-004)  
-   Anamika Mallick (2020BCS-075)        
+   Anamika Mallick (2020BCS-075) 
+   
+#### Remark -
+   Sir, you can use dummy login credential that is created from our side, in case if you face any difficulty during signup into the page. The dummy login 
+   credential are given below :
+   Username : ssr@iiitm.ac.in
+   Password : ssr1234
+   All the functionalities can be seen only after login, because it is a college specific web portal and only members of that college can access this 
+   site for maintaining confidentiality.
    
    ## About this project
    MySpace is a socio-academic portal for the Students of ABV-IIITM Gwalior where Students can not only get organized with their class schedule, get       informed with the upcoming college events organised by various clubs, access helpful resources like books, notes, previous-year papers, etc., but also   ask their academic, technical or career related doubts and get clarified by their seniors. Students can also read and post technical blogs and rate  them. MySpace attempts to make the life of Students simpler by organizing all of the things they need in one place. 
