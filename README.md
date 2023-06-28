@@ -7,9 +7,9 @@
  
   Members in the group are:
  
-   - Abishekh Yadav (2020BCS-003)       
-   - Aditya Kumar Singh (2020BCS-004)  
-   - Anamika Mallick (2020BCS-075) 
+   - Abishekh Yadav      
+   - Aditya Kumar Singh   
+   - Divyanshu
    
 #### Remark -
    For casual browsing and testing, following testing credential can be used: 
